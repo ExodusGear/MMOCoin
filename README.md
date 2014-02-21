@@ -1,5 +1,7 @@
-MMOCoin
+FooCoin (FOO)
+===========
 
-=========
+[![Build Status](https://travis-ci.org/RazorLove/foocoin.png?branch=master)](https://travis-ci.org/RazorLove/foocoin)
 
-CryptoCurrency that is in the works, Infection Is Still Conatined! Not to be used yet!
+
+Scrypt Hashcash PoW Template
